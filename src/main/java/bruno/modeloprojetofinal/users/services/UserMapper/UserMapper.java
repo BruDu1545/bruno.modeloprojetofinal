@@ -1,8 +1,8 @@
-package seunomeaqui.modeloprojetofinal.users.services.UserMapper;
+package bruno.modeloprojetofinal.users.services.UserMapper;
 
-import seunomeaqui.modeloprojetofinal.users.dto.UserCreateDTO;
-import seunomeaqui.modeloprojetofinal.users.dto.UserResponseDTO;
-import seunomeaqui.modeloprojetofinal.users.entities.User;
+import bruno.modeloprojetofinal.users.dto.UserCreateDTO;
+import bruno.modeloprojetofinal.users.dto.UserResponseDTO;
+import bruno.modeloprojetofinal.users.entities.User;
 
 public class UserMapper {
 
